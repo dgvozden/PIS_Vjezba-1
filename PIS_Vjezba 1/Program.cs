@@ -8,6 +8,7 @@ namespace PIS_Vjezba_1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Dodano nešto novo");
+            Console.WriteLine("novo");
         }
     }
 }
